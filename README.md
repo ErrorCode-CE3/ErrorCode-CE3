@@ -9,9 +9,9 @@
 <h2> Certifications:</h2>
 
 - <b> <a href="https://www.credly.com/badges/9159da57-fbc4-4e3a-b14a-a628992a32fe/linked_in_profile">Certified in Cybersecurity</a></b> (ISC2)
-- 
+  
 - <b> <a href="https://coursera.org/share/88cfa5cf69f1be3cacd3b6b2e035ebdb">Microsoft Cybersecurity Analyst</a></b>
-- 
+  
 - <b> <a href="https://www.credly.com/badges/8c5581f9-c486-4dfc-8f13-f57e9c517199/linked_in_profile">Introduction to Cybersecurity</a></b> 
 
 
