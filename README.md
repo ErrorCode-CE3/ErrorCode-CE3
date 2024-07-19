@@ -6,8 +6,8 @@
     - [Bulk User Creation in Active Directory](https://github.com/ErrorCode-CE3/Active-Directory-Lab/blob/main/README.md)
 
 - <b> Network Creation Labs</b>
-- [Domain Controller Creation]
-      - [Disk Sanitization in Powershell](https://github.com/ErrorCode-CE3/Disk-Wipe/blob/main/README.md)
+  - [Disk Sanitization in Powershell](https://github.com/ErrorCode-CE3/Disk-Wipe/blob/main/README.md)
+  
 <h2> Certifications:</h2>
 
 - <b> <a href="https://www.credly.com/badges/9159da57-fbc4-4e3a-b14a-a628992a32fe/linked_in_profile">Certified in Cybersecurity</a></b> (ISC2)
