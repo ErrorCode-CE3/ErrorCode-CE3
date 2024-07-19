@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Calvin! </h1> 
 
-<!--
-**ErrorCode-CE3/ErrorCode-CE3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2> 
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+    
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/calvin-ewing-304779235
+
+
 
 Here are some ideas to get you started:
 
