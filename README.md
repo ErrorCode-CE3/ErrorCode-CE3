@@ -21,7 +21,6 @@
 [<img align="left" alt="CalvinEwing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[Cisco]: https://www.credly.com/badges/8c5581f9-c486-4dfc-8f13-f57e9c517199/linked_in_profile
-[linkedin]: www.linkedin.com/in/calvin-ewing-304779235
+[linkedin]: https://www.linkedin.com/in/calvin-ewing-304779235
 
 
