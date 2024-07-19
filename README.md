@@ -1,7 +1,7 @@
 <h1>Hi, I'm Calvin! </h1> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
-  - [Active Directory Bulk User Creation][(https://github.com//AD_PS)](https://github.com/ErrorCode-CE3/Active-Directory-Lab) 
+  - [Active Directory Bulk User Creation][https://github.com/ErrorCode-CE3/Active-Directory-Lab/blob/main/README.md]
   
   - Honey Pot Creation and Monitoring
 
