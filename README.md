@@ -7,6 +7,9 @@
 
 - <b> Network Creation Labs</b>
   - [Disk Sanitization in Powershell](https://github.com/ErrorCode-CE3/Disk-Wipe/blob/main/README.md)
+
+- <b> De_ICE_100</b>
+  - [DeIce-Pentest](https://github.com/ErrorCode-CE3/DeIce-Pentest)
   
 <h2> Certifications:</h2>
 
