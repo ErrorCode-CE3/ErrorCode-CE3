@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 
-- <b>Active Directory Practice</b> 
-    - [Bulk User Creation in Active Directory](https://github.com/ErrorCode-CE3/Active-Directory-Lab/blob/main/README.md)
 
 - <b> Network Creation Labs</b>
   - [Disk Sanitization in Powershell](https://github.com/ErrorCode-CE3/Disk-Wipe/blob/main/README.md)
